@@ -32,7 +32,7 @@
       "productName": "Insta Loan",
       "EntityID": "HDFC",
 	    "MinAmount": "100000",
-	    "MaxAmount": "1000000",
+	    "MaxAmount": "900000",
 	    "IntervalAmount": "100000",
       "TenureList": [
         {
@@ -57,7 +57,7 @@
       "productCode": 3,
       "productName": "Credit Limit Enhancement",
       "EntityID": "HDFC",
-      "MaxAmount": "1000000",
+      "MaxAmount": "800000",
       "cardNo": "1234",
       "mobile": "9999111100"
     }
