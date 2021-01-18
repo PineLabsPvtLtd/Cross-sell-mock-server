@@ -1,0 +1,80 @@
+{
+  "details": [
+    {
+      "referenceNumber": 1,
+      "productCode": 1,
+      "productName": "Jumbo Loan",
+      "EntityID": "HDFC",
+	    "MinAmount": "100000",
+	    "MaxAmount": "1000000",
+	    "IntervalAmount": "100000",
+      "TenureList": [
+        {
+          "Months": 3,
+          "ROI": "10%",
+          "TID": "123"
+        },
+        {
+          "Months": 6,
+          "ROI": "11%",
+          "TID": "123"
+        },
+        {
+          "Months": 9,
+          "ROI": "12%",
+          "TID": "123"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 2,
+      "productCode": 2,
+      "productName": "Insta Loan",
+      "EntityID": "HDFC",
+	    "MinAmount": "100000",
+	    "MaxAmount": "1000000",
+	    "IntervalAmount": "100000",
+      "TenureList": [
+        {
+          "Months": 3,
+          "ROI": "10%",
+          "TID": "123"
+        },
+        {
+          "Months": 6,
+          "ROI": "11%",
+          "TID": "123"
+        },
+        {
+          "Months": 9,
+          "ROI": "12%",
+          "TID": "123"
+        }
+      ]
+    },
+    {
+      "referenceNumber": 3,
+      "productCode": 3,
+      "productName": "Credit Limit Enhancement",
+      "EntityID": "HDFC",
+      "MaxAmount": "1000000",
+      "cardNo": "1234",
+      "mobile": "9999111100"
+    }
+  ],
+  "otp": [
+    {
+      "referenceNumber": 1,
+      "otp": "1234"
+    },
+    {
+      "referenceNumber": 2,
+      "otp": "5678"
+    },
+    {
+      "referenceNumber": 3,
+      "otp": "2468"
+    }
+  ],
+  "submit": []
+}
