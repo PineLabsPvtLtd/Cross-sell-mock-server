@@ -11,17 +11,17 @@
       "TenureList": [
         {
           "Months": 3,
-          "ROI": "10%",
+          "ROI": 10,
           "TID": "123"
         },
         {
           "Months": 6,
-          "ROI": "11%",
+          "ROI": 11,
           "TID": "123"
         },
         {
           "Months": 9,
-          "ROI": "12%",
+          "ROI": 12,
           "TID": "123"
         }
       ]
@@ -37,17 +37,17 @@
       "TenureList": [
         {
           "Months": 3,
-          "ROI": "10%",
+          "ROI": 10,
           "TID": "123"
         },
         {
           "Months": 6,
-          "ROI": "11%",
+          "ROI": 11,
           "TID": "123"
         },
         {
           "Months": 9,
-          "ROI": "12%",
+          "ROI": 12,
           "TID": "123"
         }
       ]
