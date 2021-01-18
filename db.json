@@ -1,7 +1,7 @@
 {
   "details": [
     {
-      "referenceNumber": 1,
+      "id": 1,
       "productCode": 1,
       "productName": "Jumbo Loan",
       "EntityID": "HDFC",
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "referenceNumber": 2,
+      "id": 2,
       "productCode": 2,
       "productName": "Insta Loan",
       "EntityID": "HDFC",
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "referenceNumber": 3,
+      "id": 3,
       "productCode": 3,
       "productName": "Credit Limit Enhancement",
       "EntityID": "HDFC",
@@ -64,15 +64,15 @@
   ],
   "otp": [
     {
-      "referenceNumber": 1,
+      "id": 1,
       "otp": "1234"
     },
     {
-      "referenceNumber": 2,
+      "id": 2,
       "otp": "5678"
     },
     {
-      "referenceNumber": 3,
+      "id": 3,
       "otp": "2468"
     }
   ],
