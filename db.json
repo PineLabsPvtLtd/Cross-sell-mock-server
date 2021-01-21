@@ -66,8 +66,8 @@
       "ProductName": "Credit Limit Enhancement",
       "EntityID": "HDFC",
       "MaximumEligibleLoanAmount": "80000000",
-      "cardNo": "1234",
-      "mobile": "9999111100"
+      "CardNumber": "1234",
+      "MobileNumber": "9999111100"
     }
   ],
   "otp": [
