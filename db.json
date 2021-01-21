@@ -2,7 +2,7 @@
   "details": [
     {
       "id": 1,
-      "ProductCode": 1,
+      "ProductCode": "010",
       "ProductName": "Jumbo Loan",
       "EntityID": "HDFC",
 	    "MinAmount": "100000",
@@ -33,7 +33,7 @@
     },
     {
       "id": 2,
-      "ProductCode": 2,
+      "ProductCode": "007",
       "ProductName": "Insta Loan",
       "EntityID": "HDFC",
 	    "MinAmount": "100000",
@@ -59,7 +59,7 @@
     },
     {
       "id": 3,
-      "ProductCode": 3,
+      "ProductCode": "001",
       "ProductName": "Credit Limit Enhancement",
       "EntityID": "HDFC",
       "MaxAmount": "800000",
