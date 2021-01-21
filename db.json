@@ -7,7 +7,7 @@
       "EntityID": "HDFC",
 	    "MinimumEligibleLoanAmount": "10000000",
 	    "MaximumEligibleLoanAmount": "100000000",
-	    "IntervalAmountAllowedToChangeAllowedToChange": "10000000",
+	    "IntervalAmountAllowedToChange": "10000000",
       "tenureAmountList": [
         {
           "Months": 3,
