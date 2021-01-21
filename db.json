@@ -7,7 +7,9 @@
       "EntityID": "HDFC",
 	    "MinimumEligibleLoanAmount": "10000000",
 	    "MaximumEligibleLoanAmount": "100000000",
-	    "IntervalAmountAllowedToChange": "10000000",
+      "IntervalAmountAllowedToChange": "10000000",
+      "DisbursalMode": "SB",
+      "SBAccountNumber": "3468",
       "tenureAmountList": [
         {
           "Months": 3,
@@ -38,7 +40,8 @@
       "EntityID": "HDFC",
 	    "MinimumEligibleLoanAmount": "10000000",
 	    "MaximumEligibleLoanAmount": "90000000",
-	    "IntervalAmountAllowedToChange": "10000000",
+      "IntervalAmountAllowedToChange": "10000000",
+      "DisbursalMode": "DD",
       "tenureAmountList": [
         {
           "Months": 3,
