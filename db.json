@@ -5,28 +5,28 @@
       "ProductCode": "010",
       "ProductName": "Jumbo Loan",
       "EntityID": "HDFC",
-	    "MinAmount": "100000",
-	    "MaxAmount": "1000000",
-	    "IntervalAmount": "100000",
+	    "MinimumEligibleLoanAmount": "100000",
+	    "MaximumEligibleLoanAmount": "1000000",
+	    "IntervalAmountAllowedToChangeAllowedToChange": "100000",
       "tenureAmountList": [
         {
           "Months": 3,
-          "ROI": 10,
+          "ROI": "1000",
           "TID": "123"
         },
         {
           "Months": 6,
-          "ROI": 11,
+          "ROI": "1100",
           "TID": "123"
         },
         {
           "Months": 9,
-          "ROI": 12,
+          "ROI": "1250",
           "TID": "123"
         },
         {
           "Months": 24,
-          "ROI": 20,
+          "ROI": "2060",
           "TID": "123"
         }
       ]
@@ -36,23 +36,23 @@
       "ProductCode": "007",
       "ProductName": "Insta Loan",
       "EntityID": "HDFC",
-	    "MinAmount": "100000",
-	    "MaxAmount": "900000",
-	    "IntervalAmount": "100000",
+	    "MinimumEligibleLoanAmount": "100000",
+	    "MaximumEligibleLoanAmount": "900000",
+	    "IntervalAmountAllowedToChange": "100000",
       "tenureAmountList": [
         {
           "Months": 3,
-          "ROI": 10,
+          "ROI": "1000",
           "TID": "123"
         },
         {
           "Months": 6,
-          "ROI": 11,
+          "ROI": "1100",
           "TID": "123"
         },
         {
           "Months": 9,
-          "ROI": 12,
+          "ROI": "1200",
           "TID": "123"
         }
       ]
@@ -62,7 +62,7 @@
       "ProductCode": "001",
       "ProductName": "Credit Limit Enhancement",
       "EntityID": "HDFC",
-      "MaxAmount": "800000",
+      "MaximumEligibleLoanAmount": "800000",
       "cardNo": "1234",
       "mobile": "9999111100"
     }
