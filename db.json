@@ -5,9 +5,9 @@
       "ProductCode": "010",
       "ProductName": "Jumbo Loan",
       "EntityID": "HDFC",
-	    "MinimumEligibleLoanAmount": "100000",
-	    "MaximumEligibleLoanAmount": "1000000",
-	    "IntervalAmountAllowedToChangeAllowedToChange": "100000",
+	    "MinimumEligibleLoanAmount": "10000000",
+	    "MaximumEligibleLoanAmount": "100000000",
+	    "IntervalAmountAllowedToChangeAllowedToChange": "10000000",
       "tenureAmountList": [
         {
           "Months": 3,
@@ -36,9 +36,9 @@
       "ProductCode": "007",
       "ProductName": "Insta Loan",
       "EntityID": "HDFC",
-	    "MinimumEligibleLoanAmount": "100000",
-	    "MaximumEligibleLoanAmount": "900000",
-	    "IntervalAmountAllowedToChange": "100000",
+	    "MinimumEligibleLoanAmount": "10000000",
+	    "MaximumEligibleLoanAmount": "90000000",
+	    "IntervalAmountAllowedToChange": "10000000",
       "tenureAmountList": [
         {
           "Months": 3,
@@ -62,7 +62,7 @@
       "ProductCode": "001",
       "ProductName": "Credit Limit Enhancement",
       "EntityID": "HDFC",
-      "MaximumEligibleLoanAmount": "800000",
+      "MaximumEligibleLoanAmount": "80000000",
       "cardNo": "1234",
       "mobile": "9999111100"
     }
