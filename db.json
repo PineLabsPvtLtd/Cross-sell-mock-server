@@ -2,13 +2,13 @@
   "details": [
     {
       "id": 1,
-      "productCode": 1,
-      "productName": "Jumbo Loan",
+      "ProductCode": 1,
+      "ProductName": "Jumbo Loan",
       "EntityID": "HDFC",
 	    "MinAmount": "100000",
 	    "MaxAmount": "1000000",
 	    "IntervalAmount": "100000",
-      "TenureList": [
+      "tenureAmountList": [
         {
           "Months": 3,
           "ROI": 10,
@@ -33,13 +33,13 @@
     },
     {
       "id": 2,
-      "productCode": 2,
-      "productName": "Insta Loan",
+      "ProductCode": 2,
+      "ProductName": "Insta Loan",
       "EntityID": "HDFC",
 	    "MinAmount": "100000",
 	    "MaxAmount": "900000",
 	    "IntervalAmount": "100000",
-      "TenureList": [
+      "tenureAmountList": [
         {
           "Months": 3,
           "ROI": 10,
@@ -59,8 +59,8 @@
     },
     {
       "id": 3,
-      "productCode": 3,
-      "productName": "Credit Limit Enhancement",
+      "ProductCode": 3,
+      "ProductName": "Credit Limit Enhancement",
       "EntityID": "HDFC",
       "MaxAmount": "800000",
       "cardNo": "1234",
