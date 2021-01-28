@@ -2,6 +2,8 @@
   "details": [
     {
       "id": 1,
+      "ResponseCode": 1,
+      "ResponseMessage": "Success",
       "ProductCode": "010",
       "ProductName": "Jumbo Loan",
       "EntityID": "HDFC",
@@ -35,6 +37,8 @@
     },
     {
       "id": 2,
+	"ResponseCode": 1,
+      "ResponseMessage": "Success",
       "ProductCode": "007",
       "ProductName": "Insta Loan",
       "EntityID": "HDFC",
@@ -62,6 +66,8 @@
     },
     {
       "id": 3,
+	    "ResponseCode": 1,
+      "ResponseMessage": "Success",
       "ProductCode": "001",
       "ProductName": "Credit Limit Enhancement",
       "EntityID": "HDFC",
@@ -73,14 +79,20 @@
   "otp": [
     {
       "id": 1,
+	    "ResponseCode": 1,
+      "ResponseMessage": "Success",
       "otp": "1234"
     },
     {
       "id": 2,
+	    "ResponseCode": 1,
+      "ResponseMessage": "Success",
       "otp": "5678"
     },
     {
       "id": 3,
+	    "ResponseCode": 1,
+      "ResponseMessage": "Success",
       "otp": "2468"
     }
   ],
